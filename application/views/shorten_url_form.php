@@ -9,5 +9,7 @@
         <input type="url" name="original_url" placeholder="Enter the URL" required>
         <button type="submit">Shorten</button>
     </form>
+
+    <h4> Product by <a href="https://medhatech.in" target="_blank"> Medha Tech</a> </h4>
 </body>
 </html>
